@@ -1,4 +1,4 @@
-package com.londonappbrewery.xylophonepm;
+package com.blackbeast.xylophonepm;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

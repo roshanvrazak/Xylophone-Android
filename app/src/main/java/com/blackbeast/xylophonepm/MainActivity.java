@@ -1,14 +1,12 @@
-package com.londonappbrewery.xylophonepm;
+package com.blackbeast.xylophonepm;
 
 import android.media.AudioManager;
 import android.media.SoundPool;
-import android.net.rtp.AudioStream;
 import android.os.Bundle;
-import android.provider.Telephony;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import java.util.Random;
+import com.londonappbrewery.xylophonepm.R;
 
 public class MainActivity extends AppCompatActivity {
 
